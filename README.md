@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bofta
 - 👀 I’m interested in ... Programming&&Coding&&Gamemaking&&Gaming 
-- 🌱 I’m currently learning ... C , C++ , Html/Css/Pyhton/Javascript
+- 🌱 I’m currently learning ... C/C++/Css/Javascript/HTML/Python/Java
 - 💞️ I’m looking to collaborate on ... Projects :) 
 - 📫 How to reach me ... -> montassar367@gmail.com
 
